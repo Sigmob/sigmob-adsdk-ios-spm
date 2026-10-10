@@ -1,0 +1,1 @@
+# sigmob-adsdk-ios-spm
