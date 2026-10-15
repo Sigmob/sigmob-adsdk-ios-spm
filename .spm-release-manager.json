@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "sdk": "WindSDK",
+  "version": "5.2.0",
+  "files": [
+    ".gitignore",
+    "Package.swift",
+    "README.md",
+    "Sources/WindSDKPackage/Dependencies.swift"
+  ]
+}
