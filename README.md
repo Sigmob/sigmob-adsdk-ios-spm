@@ -2,7 +2,7 @@
 
 Generated release package. Do not edit manually.
 
-- Package version: 5.2.2
+- Package version: 5.2.0
 - Product: `WindSDK`
 - Module: `WindSDK`
 - Binary: https://sdkres.sigmob.cn/wind/ios/5.2.0_54b915fa17309ac957bab5b3d6a3ea27/WindSDK_5.2.0_20261015.zip
