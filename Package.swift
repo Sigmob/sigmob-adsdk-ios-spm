@@ -21,7 +21,7 @@ let package = Package(
             name: "WindSDKPackage",
             dependencies: [
                 .target(name: "WindSDK"),
-                .product(name: "WindFoundation", package: "windfoundation-spm")
+                .product(name: "WindFoundation", package: "sigmob-common-ios-spm")
             ],
             path: "Sources/WindSDKPackage",
             linkerSettings: [
